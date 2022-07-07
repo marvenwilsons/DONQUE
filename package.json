@@ -33,7 +33,7 @@
         "jsonwebtoken": "^8.4.0",
         "material-design-icons-iconfont": "^5.0.1",
         "md5": "^2.3.0",
-        "moment": "^2.29.1",
+        "moment": "^2.29.4",
         "node-fetch": "^2.6.1",
         "nuxt": "^2.14.7",
         "nuxt-element-ui": "^1.0.10",

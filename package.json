@@ -30,7 +30,7 @@
         "express": "^4.16.4",
         "fkill": "^7.1.0",
         "gsap": "^3.6.0",
-        "jsonwebtoken": "^8.4.0",
+        "jsonwebtoken": "^9.0.0",
         "material-design-icons-iconfont": "^5.0.1",
         "md5": "^2.3.0",
         "moment": "^2.29.1",
